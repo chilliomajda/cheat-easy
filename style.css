@@ -1,0 +1,83 @@
+.header {
+    background-color: #262626;
+    height: 100px;
+    margin: -15px;
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+
+
+.title {
+    text-align: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+body {
+    background-color: #F6F5F2;
+}
+
+.pracak {
+    text-align: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+
+}
+
+.Vyber {
+    text-align: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.domu {
+    text-align: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 45px;
+
+}
+
+.rocnik {
+    text-align: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.pracovnis {
+    text-align: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    
+}
+
+.footer {
+    background-color: #262626;
+    height: 100px;
+    margin: -15px;
+    margin-top: 500px;
+    display: flex;
+
+
+}
